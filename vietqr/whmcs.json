@@ -1,0 +1,27 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "vietqr",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "VietQR Code",
+    "tagline": "Chap nhan thanh toan chuyen khoan bang ma QR"
+  },
+  "logo": {
+    "filename": "vietqr.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.haoquangviet.com\/", 
+    "learn_more": "https:\/\/www.host.net.vn\/knowledgebase", 
+    "email": "whmcs@haoquangviet.com", 
+    "support_url": "https:\/\/www.host.net.vn\/knowledgebase",
+    "docs_url": "https:\/\/developers.whmcs.com\/payment-gateways\/"
+  },
+  "authors": [
+    {
+      "name": "Nguyen Quoc Viet",
+      "homepage": "https:\/\/www.haoquangviet.com\/"
+    }
+  ]
+}
